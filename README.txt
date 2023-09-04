@@ -1,6 +1,5 @@
 September 3rd, 2023
 By: Matthew Chen
-Student ID: 931060654
 
 This program requires a Python version of 2.5 or greater due to using the ElementTree library.
 Run the code with python xml_leaf_highlighter.py [directory] in the terminal.
