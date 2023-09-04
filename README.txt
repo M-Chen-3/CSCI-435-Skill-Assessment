@@ -7,7 +7,7 @@ Run the code with python xml_leaf_highlighter.py [directory] in the terminal.
 For example, with file names from the ZIP file sent in the assignment,
 you'd run "python xml_leaf_highlighter.py Programming-Assignment-Data". 
 The directory should contain all the XML files and screenshots.
-My program assumes that every XML file has exactly 1 PNG file corresponding to it.
+My program assumes that every XML file has exactly 1 PNG file corresponding to it with the same name.
 Output files will be in the directory highlighted_screenshots, which the program will create 
 if it doesn't already exist. Existing files will be overwritten.
 
